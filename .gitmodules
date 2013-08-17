@@ -1,0 +1,9 @@
+[submodule "_plugins/lesscss"]
+	path = _plugins/lesscss
+	url = https://gist.github.com/642739.git
+[submodule "_plugins/sitemap_gen"]
+	path = _plugins/sitemap_gen
+	url = https://github.com/kinnetica/jekyll-plugins.git
+[submodule "_plugins\\oembed"]
+	path = _plugins\\oembed
+	url = https://gist.github.com/1455726.git
