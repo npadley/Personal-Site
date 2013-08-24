@@ -3,11 +3,11 @@ layout: default
 title: Digital Nick Notes
 ---
 
-<h1>Blog Posts</h1>
-
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <div class="page-header">
+  	<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  </div>
   <p class="author">
     <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
   </p>

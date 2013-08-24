@@ -1,9 +1,8 @@
 ---
 layout: default
 title: About Me
+showtitle: true
 ---
-
-# About Me
 
 My name is Nick Padley and I work in the online eLearning industry. Our company, [CD2 Learning][cd2] is working to help people move beyond the confines of a traditional LMS or LCMS and deliver truly astonishing results.
 
