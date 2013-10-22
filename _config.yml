@@ -8,5 +8,5 @@ paginate: 5
 paginate_path: /blog/page-:num
 pygments: true
 url: http://www.nickpadley.com
-exclude: ['Rakefile', Gemfile, Gemfile.lock, 'Personal Blog.esproj']
+exclude: [Gemfile, Gemfile.lock, 'Personal Blog.esproj', css/main.less]
 include: ['.htaccess']
