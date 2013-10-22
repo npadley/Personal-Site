@@ -9,4 +9,3 @@ paginate_path: /blog/page-:num
 pygments: true
 url: http://www.nickpadley.com
 exclude: [Gemfile, Gemfile.lock, 'Personal Blog.esproj', css/main.less]
-include: ['.htaccess']
