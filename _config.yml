@@ -6,3 +6,6 @@ paginate_path: /blog/page-:num
 pygments: true
 url: http://www.nickpadley.com
 exclude: [Gemfile, Gemfile.lock, 'Personal Blog.esproj', css/main.less]
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
