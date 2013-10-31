@@ -2,6 +2,7 @@
 layout: default
 title: About Me
 showtitle: true
+icon: fa fa-user
 sitemap:
     priority: 0.7
     changefreq: monthly
