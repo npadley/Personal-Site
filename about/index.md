@@ -21,18 +21,18 @@ In order to get my day done, I find the following tools indispensable:
 
 * Paper and pen for notes [see here][notes]
 * [Omnifocus for tasks][omnifocus]
-* [Evernote][evernote] for scanning my notes
+* [Evernote] and [Scanner Pro][spro] for scanning my notes
 * The standard Apple productivity suite (Mail, iCal and Messages)
-* iTunes and [Songza][songza]
-* [Pocket][pocket]
+* iTunes and [iTunes Radio][itunes]
+* [Pocket] for storing articles
 * [Zite] for research
 
 ### Code Tools
 * [Chrome Developer Tools](https://developers.google.com/chrome-developer-tools/)
-* [Espresso](http://macrabbit.com/espresso/)
+* [Sublime Text](http://www.sublimetext.com/)
 * [Emmet](http://docs.emmet.io/)
 * [Transmit](http://panic.com/transmit/)
-* [Less](http://www.lesscss.org) and [SimpLESS](http://wearekiss.com/simpless)
+* [Less](http://www.lesscss.org)
 * [CoRD](http://cord.sourceforge.net/)
 * [Sourcetree](http://www.sourcetreeapp.com/)
 
@@ -41,6 +41,7 @@ In order to get my day done, I find the following tools indispensable:
 [notes]: http://www.tigerpens.co.uk/blog/handwriting-vs-technology-6-reasons-why-taking-notes-by-hand-still-wins/ "Taking Notes By Hand"
 [omnifocus]: http://www.omnigroup.com/products/omnifocus/ "Omnifocus"
 [evernote]: http://evernote.com
-[songza]: http://songza.com/
+[itunes]: http://www.apple.com/itunes/itunes-radio/
 [pocket]: http://getpocket.com/
 [zite]: http://www.zite.com/
+[spro]: http://readdle.com/products/scannerpro/
