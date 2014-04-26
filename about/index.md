@@ -9,15 +9,17 @@ sitemap:
     lastmod: 2013-10-22T14:31:44-05:00
 ---
 
-My name is Nick Padley and I work in the online eLearning industry. Our company, [CD2 Learning][cd2] is working to help people move beyond the confines of a traditional LMS or LCMS and deliver truly astonishing results.
+My name is Nick Padley and I work in the online eLearning industry. I am primarily concerned with how to boost user engagement through making the online experience better. My primary job is to work in user experience design, front-end web development and software documentation.
 
 ### How I Work
 
-During the work day, I tend to spend a lot of time on the phone and instant messenger, talking to coworkers and accomplishing tasks. My primary job is to work in user experience design, front-end web development and software documentation.
+I am a big fan of continuous learning methodologies. I always appreciate learning something new and increasing my knowledge of the world.
+
+During the work day, I tend to spend a lot of time on the phone and instant messenger, talking to coworkers and accomplishing tasks. 
 
 In order to get my day done, I find the following tools indispensable:
 
-### Work Tools
+#### Work Tools
 
 * Paper and pen for notes [see here][notes]
 * [Omnifocus for tasks][omnifocus]
@@ -27,7 +29,7 @@ In order to get my day done, I find the following tools indispensable:
 * [Pocket] for storing articles
 * [Zite] for research
 
-### Code Tools
+#### Code Tools
 * [Chrome Developer Tools](https://developers.google.com/chrome-developer-tools/)
 * [Sublime Text](http://www.sublimetext.com/)
 * [Emmet](http://docs.emmet.io/)
