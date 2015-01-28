@@ -1,17 +1,19 @@
 {% include header.html %}
 <div class="container">
 	<div class="row">
-		<div class="col-xs-12 col-md-8">
-			{% if page.showtitle %}
-				<div class="page-header">
-					<h1><i class="{{page.icon}}"></i> {{ page.title }}</h1>
-				</div>
-			{% endif %}
-			 {{ content }}
-		</div>
-		<div class="hidden-xs hidden-sm col-md-4">
+		<div class="box">
+			<div class="col-lg-8">
+				{% if page.showtitle %}
+					<hr>
+						<h2 class="intro-text text-center"><i class="{{page.icon}}"></i> {{ page.title }}</h2>
+					<hr>
+				{% endif %}
+				{{ content }}
+			</div>
+		<div class="hidden-xs hidden-sm col-lg-4">
 			{% include sidebar.html %}
 		</div>
+	</div>
 	</div>
 </div><!-- /.container -->
 {% include footer.html %}

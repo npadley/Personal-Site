@@ -1,11 +1,11 @@
 name: Nick Padley - Digital Notes
 description: Information about Nick's Hobbies
-permalink: /:year/:month/:day/:title/
+permalink: /blog/:title/
 paginate: 5
 paginate_path: /blog/page-:num
-pygments: true
+highlighter: pygments
 url: http://www.nickpadley.com
-exclude: [Gemfile, Gemfile.lock, 'Personal Blog.esproj', css/main.less]
+exclude: [Gemfile, Gemfile.lock]
 markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
