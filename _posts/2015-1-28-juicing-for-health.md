@@ -15,6 +15,7 @@ Flash forward to today, I'm nearing the final few days of a 28-day juicing plan 
 It sounds crazy, but I no longer want to eat so-called "comfort food," especially the kind that comes with big helpings of saturated fat, salt and sugar. Just the thought of it is unappetizing. I'd rather chow down on a good salad, topped with avocado, broccoli and carrots - something I'm looking forward to at the end of this 28-day program.
 
 The results have been amazing:
+
 * More energy with healthy eating helps me get to the gym in the morning
 * My workouts have been increasing in intensity, contributing to a great recovery rate
 * I've picked up running as something that's enjoyable when I used to completely hate it
