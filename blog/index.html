@@ -12,7 +12,17 @@ title: Digital Nick Notes
     <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
   </p>
   <div class="content">
-    {{ post.content }}
+    {% if post.content contains '<!--more-->' %}
+  
+      {{ post.content | split:'<!--more-->' | first }}
+      
+      <p><a href="{{ post.url }}"><i class="fa fa-arrow-right"></i> Continue reading</a></p>
+
+    {% else %}
+
+      {{ post.content }}
+      
+    {% endif %}
   </div>
 {% endfor %}
 

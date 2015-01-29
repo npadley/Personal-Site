@@ -12,6 +12,8 @@ So, I've decided to switch my personal website over to using [Jekyll][1] rather 
 * I don't need all the bells and whistles
 * I'd rather have written the HTML, even if it is ugly
 
+<!--more-->
+
 ### Rebooting
 
 Along with the change, I've also decided to reboot the blog portion of the site. Over the years, I've tried various content management systems. I started with Blogger and I also tried Typo3, Drupal and Joomla. I finally settled on Wordpress for hosting the site.

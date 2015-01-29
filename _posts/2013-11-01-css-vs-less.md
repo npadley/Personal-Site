@@ -8,6 +8,8 @@ At my day job, I've been doing some website building. We've launched two new sit
 
 I first started learning [Bootstrap](http://www.getbootstrap.com). However, I quickly needed the ability to customize the framework for another site that I'm currently building. As a result, I've been learning to work with [Less](http://www.lesscss.org).
 
+<!--more-->
+
 At first, I was hesitant to get into the whole CSS preprocessor thing. My initial reaction was that using variables and mixins really weren't that big of a deal. Is it really that tough to do a find-replace for a hex value to change a color?
 
 After using Less on my third project, I have really started to open up to the possibilities. On this project, I asked the designers to give me the four or five basic brand colors and I started using some of the color math functions. This functionality alone has won me over.

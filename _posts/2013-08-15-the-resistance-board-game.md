@@ -8,6 +8,8 @@ In a previous post, I mentioned how exciting it is to play board games these day
 
 What I'm talking about are board games that have some depth to them. These games are a lot of fun to play and can really challenge you to think and strategize. One of the neat things about them is that they are not based upon luck. Instead of relying on dice to dictate what you do in a game, you get the opportunity to put real thought behind your actions.
 
+<!--more-->
+
 The first game I would like to talk about is [The Resistance][wiki]. If you have ever played Mafia, this game will immediately make sense to you. However, the one benefit above Mafia is that this game doesn't eliminate players. There are two teams and your team either wins or loses as a group. This helps keep people in the game, where in Mafia, once you are eliminated, you have no say (and really can't speak) until the game is over.
 
 I've played this a number of times with my family and we have all had a great time. I was actually introduced to this game via Tabletop. So, rather than doing all the explaining, I'll link to their youtube video so you can see how an actual game plays out.

@@ -8,6 +8,8 @@ Now that I have moved off of Wordpress, I started looking for a way to archive t
 
 To keep track of my personal journal, I use [Day One](http://dayoneapp.com/) which is a fantastic piece of software. It has high design values, lets you keep track of pictures and even will store geo-location and weather data.
 
+<!--more-->
+
 Because Day One is such a great piece of software, I found out that it can import text files as entries. Up until today, I was trying to find a way to translate the XML file that Wordpress exports into text files so I could keep everything in one program. However, I think I've found a better solution.
 
 ### Turn Your Blog Into a Book
