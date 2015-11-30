@@ -1,14 +1,19 @@
 name: Nick Padley - Digital Notes
 description: Information about Nick's Hobbies
+
+gems: [jekyll-paginate]
+
 permalink: /blog/:title/
+
 paginate: 5
 paginate_path: /blog/page-:num
-highlighter: pygments
+
+safe: true
+
 url: http://www.nickpadley.com
+
 exclude: [Gemfile, Gemfile.lock]
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
 prose:
   rooturl: ''
   siteurl: 'http://nickpadley.com/'

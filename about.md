@@ -3,6 +3,7 @@ layout: default
 title: About Me
 showtitle: true
 icon: fa fa-user
+permalink: /about/
 sitemap:
     priority: 0.7
     changefreq: monthly

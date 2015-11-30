@@ -3,6 +3,7 @@ layout: default
 title: Contact Nick
 icon: fa fa-envelope-o
 showtitle: true
+permalink: /contact/
 sitemap:
     priority: 0.7
     changefreq: monthly
