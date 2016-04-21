@@ -2,7 +2,7 @@
 layout: post
 comments: true
 published: true
-title: Beyond Compare Sublime Text Plugin
+title: Beyond Compare Plugin for Sublime Text
 ---
 
 I recently started using [Beyond Compare](http://www.scootersoftware.com) on my Mac and have found it to be a really useful utility. The one thing I couldn't find, however, was any way of linking the program with Sublime Text. 
