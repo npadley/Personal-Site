@@ -10,7 +10,7 @@ paginate_path: /blog/page-:num
 
 url: http://www.nickpadley.com
 
-exclude: [Gemfile, Gemfile.lock]
+exclude: [Gemfile, Gemfile.lock, vendor]
 
 prose:
   rooturl: ''
