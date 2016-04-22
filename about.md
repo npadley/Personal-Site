@@ -22,13 +22,12 @@ In order to get my day done, I find the following tools indispensable:
 
 #### Work Tools
 
-* Paper and pen for notes [see here][notes]
+* Paper and pen for notes
 * [Omnifocus for tasks][omnifocus]
-* [Evernote] and [Scanner Pro][spro] for scanning my notes
-* The standard Apple productivity suite (Mail, iCal and Messages)
-* iTunes and [iTunes Radio][itunes]
+* [Onenote] and [Scanner Pro][spro] for scanning my notes
+* The Microsoft Productivity Suite
+* iTunes for Music
 * [Pocket] for storing articles
-* [Zite] for research
 
 #### Code Tools
 * [Safari Developer Tools](https://developer.apple.com/safari/tools/)
@@ -36,7 +35,6 @@ In order to get my day done, I find the following tools indispensable:
 * [Emmet](http://docs.emmet.io/)
 * [Transmit](http://panic.com/transmit/)
 * [Less](http://www.lesscss.org)
-* [CoRD](http://cord.sourceforge.net/)
 * [Sourcetree](http://www.sourcetreeapp.com/)
 
 ### Social Media Policy
@@ -50,10 +48,8 @@ I maintain presence on two social media networks: [Twitter](http://twitter.com/n
 * Social networking can be a time suck
 * If it's posted publicly, it's out of your control
 
-[notes]: http://www.tigerpens.co.uk/blog/handwriting-vs-technology-6-reasons-why-taking-notes-by-hand-still-wins/ "Taking Notes By Hand"
 [omnifocus]: http://www.omnigroup.com/products/omnifocus/ "Omnifocus"
-[evernote]: http://evernote.com
+[Onenote]: http://www.onenote.com
 [itunes]: http://www.apple.com/itunes/itunes-radio/
 [pocket]: http://getpocket.com/
-[zite]: http://www.zite.com/
 [spro]: http://readdle.com/products/scannerpro/
