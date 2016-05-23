@@ -26,7 +26,7 @@ In order to get my day done, I find the following tools indispensable:
 * [Omnifocus for tasks][omnifocus]
 * [Onenote] and [Scanner Pro][spro] for scanning my notes
 * The Microsoft Productivity Suite
-* iTunes for Music
+* Apple Music
 * [Pocket] for storing articles
 
 #### Code Tools
