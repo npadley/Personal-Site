@@ -12,25 +12,24 @@ sitemap:
 
 <script src='https://www.google.com/recaptcha/api.js'></script>
 
-<form action="https://getsimpleform.com/messages?form_api_token=6b1927e2fed1206550614981db4aad06" method="post">
-	<fieldset>
-	  <input type='hidden' name='redirect_to' value='https://www.nickpadley.com/contact/thanks/' />
-		<div class="form-group">
-			<label for="name">Name</label>
-			<input type="text" class="form-control" name="name" placeholder="name" id="name" />
+<form action="https://formspree.io/contact2016@nickpadley.com"
+      method="POST">
+      <fieldset>
+      <input type="hidden" name="_next" value="//www.nickpadley.com/contact/thanks/" />
+      <input type="hidden" name="_subject" value="Contact Form Submission" />
+      <input type="text" name="_gotcha" style="display:none" />
+    <div class="form-group">
+		<label for="name">Name</label>
+		<input type="text" class="form-control" name="name" placeholder="Your Name" id="name" />
 		</div>
-		<div class="form-group">	
-			<label for="email">Email</label>
-			<input type="email" class="form-control" name="email" placeholder="email" id="email" />
-		</div>
-		<div class="form-group">	
-			<label for="message">Message</label>
-			<textarea class="form-control" rows="3" name="message" id="message"></textarea>
-		</div>
-		<div class="form-group">
-			<div class="g-recaptcha" data-sitekey="6LeTVSYTAAAAAEl9x_oMBxYa_1SmzkB8UiWZYMuH"></div>
-		</div>
-		
-		<button type="submit" class="btn btn-primary">Submit</button>
-  </fieldset>
+	<div class="form-group">	
+		<label for="email">Email</label>
+    	<input type="email" name="_replyto" class="form-control" placeholder="email@domain.com">
+    </div>
+    <div class="form-group">	
+		<label for="message">Message</label>
+		<textarea class="form-control" rows="3" name="message" id="message"></textarea>
+	</div>
+    <button type="submit" class="btn btn-primary">Send</button>
+    </fieldset>
 </form>
