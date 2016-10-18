@@ -5,7 +5,7 @@ published: true
 title: Spinrite on MacOS Using Wine and VirtualBox
 ---
 
-I tried an experiement out today to see if it was possible to get [Spinrite](grc.com) running on my Mac. Surprisingly, I was able to do it. If you want to give it a try, this article will walk you through it. Click on each link below to head to that section.
+I tried an experiement out today to see if it was possible to get [Spinrite](https://www.grc.com) running on my Mac. Surprisingly, I was able to do it. If you want to give it a try, this article will walk you through it. Click on each link below to head to that section.
 
 **Prerequisite:** You need to be familiar with using the terminal program on your Mac. As an owner of Spinrite, I'm presuming that you are.
 
