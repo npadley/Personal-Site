@@ -30,6 +30,7 @@ sitemap:
 		<label for="message">Message</label>
 		<textarea class="form-control" rows="3" name="message" id="message"></textarea>
 	</div>
+  <input type="text" name="_gotcha" style="display:none" />
     <button type="submit" class="btn btn-primary">Send</button>
     </fieldset>
 </form>
