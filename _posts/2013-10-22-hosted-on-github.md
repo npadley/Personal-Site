@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: true
-title: Now Hosted on Github
 published: true
+title: Now Hosted on Github
 ---
 
 The [recent news][mt] that Media Temple was acquired by GoDaddy means that I need to start putting together a backup plan for my sites. Not that I have a lot of sites or that I have a great need for hosting at the moment, this is more on principle. I ended up moving all my services away from GoDaddy a long time ago due to their over-the-top marketing.

@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: true
-title: Straight CSS vs. Less CSS
 published: true
+title: Straight CSS vs. Less CSS
 ---
 
 At my day job, I've been doing some website building. We've launched two new sites, [CD2 Learning](http://www.cd2learning.com) and [CD2 Leadership](http://www.cd2leadership.com). These two sites were my first introduction into responsive design and some higher-level web development.

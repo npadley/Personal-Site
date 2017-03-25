@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: true
-title: New Site and New Direction
 published: true
+title: New Site and New Direction
 ---
 
 So, I've decided to switch my personal website over to using [Jekyll][1] rather than Wordpress. It seems that all the cool kids are doing it these days. Here are a few reasons that I decided to try this:
