@@ -1,6 +1,6 @@
 ---
 title: Juicing Myself Back to Health
-date: 01/28/2015 12:00 AM
+date: '01/28/2015 12:00 AM'
 ---
 
 Over the past few months, I've been working on changing my habits and adopting a healthier diet. It all started with watching a documentary called [Hungry for Change](http://www.hungryforchange.tv/). Up until the middle of October 2014, I had really been eating all sorts of junk and causing myself to grow - not in the vertical sense, though!
