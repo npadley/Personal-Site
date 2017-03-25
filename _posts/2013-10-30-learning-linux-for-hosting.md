@@ -19,5 +19,5 @@ The best performance improvement has been on my brother's blog, <http://patrickp
 
 One of my biggest fears with moving to a VPS is having the knowledge to put the server together and lock it down. The tutorials on the Digital Ocean site made things very easy and, while I'm not the biggest expert on security, I feel like the sites that I'm hosting are protected. There's still a lot to learn, but for the moment, this has been a great experience in starting a new hosting project.
 
-[last-post]: {% post_url 2013-10-22-hosted-on-github %}
+[last-post]: {% post_url 2013-10-22-now-hosted-on-github %}
 [do-tutorials]: https://digitalocean.com/community
