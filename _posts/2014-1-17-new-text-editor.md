@@ -1,7 +1,8 @@
 ---
-title: Switching to Sublime Text from Espresso
 layout: post
 comments: true
+title: Switching to Sublime Text from Espresso
+published: true
 ---
 
 I recently switched my text editor of 5+ years to [Sublime Text](http://www.sublimetext.com/) from [Espresso](http://macrabbit.com/espresso/). I've been learning the interface for the new editor and really like it. Listed below are a few reasons that compelled me to switch:

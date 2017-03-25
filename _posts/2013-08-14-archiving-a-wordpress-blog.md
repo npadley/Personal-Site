@@ -1,7 +1,8 @@
 ---
-title: Archiving a Wordpress Blog
 layout: post
 comments: true
+title: Archiving a Wordpress Blog
+published: true
 ---
 
 Now that I have moved off of Wordpress, I started looking for a way to archive the old posts in case I ever wanted to read through things again. Maybe it will be good bathroom reading.

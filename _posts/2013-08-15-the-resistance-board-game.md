@@ -1,7 +1,8 @@
 ---
-title: The Resistance Board Game
 layout: post
 comments: true
+title: The Resistance Board Game
+published: true
 ---
 
 In a previous post, I mentioned how exciting it is to play board games these days. I'm not talking about the type of stuff you are probably thinking about. The board games I own and play go above and beyond a standard night of Trivial Pursuit or Scrabble.
