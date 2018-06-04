@@ -12,12 +12,10 @@ sitemap:
 
 <script src='https://www.google.com/recaptcha/api.js'></script>
 
-<form action="https://formspree.io/contact2016@nickpadley.com"
-      method="POST">
+<form name="contact" method="POST" netlify>
       <fieldset>
       <input type="hidden" name="_next" value="//www.nickpadley.com/contact/thanks/" />
       <input type="hidden" name="_subject" value="Contact Form Submission" />
-      <input type="text" name="_gotcha" style="display:none" />
     <div class="form-group">
 		<label for="name">Name</label>
 		<input type="text" class="form-control" name="name" placeholder="Your Name" id="name" />
@@ -30,7 +28,7 @@ sitemap:
 		<label for="message">Message</label>
 		<textarea class="form-control" rows="3" name="message" id="message"></textarea>
 	</div>
-  <input type="text" name="_gotcha" style="display:none" />
+    <div data-netlify-recaptcha></div>
     <button type="submit" class="btn btn-primary">Send</button>
     </fieldset>
 </form>
