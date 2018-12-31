@@ -12,10 +12,13 @@ sitemap:
 
 <script src='https://www.google.com/recaptcha/api.js'></script>
 
-<form name="contact" method="POST" netlify>
+<form name="contact" method="POST" data-netlify="true" netlify-honeypot="main-contact-field">
       <fieldset>
       <input type="hidden" name="_next" value="//www.nickpadley.com/contact/thanks/" />
       <input type="hidden" name="_subject" value="Contact Form Submission" />
+    <div class="form-group hidden">
+      <input name="main-contact-field" /></label>
+    </div>
     <div class="form-group">
 		<label for="name">Name</label>
 		<input type="text" class="form-control" name="name" placeholder="Your Name" id="name" />
@@ -28,7 +31,7 @@ sitemap:
 		<label for="message">Message</label>
 		<textarea class="form-control" rows="3" name="message" id="message"></textarea>
 	</div>
-    <div data-netlify-recaptcha></div>
+    <div data-netlify-recaptcha="true"></div>
     <button type="submit" class="btn btn-primary">Send</button>
     </fieldset>
 </form>
