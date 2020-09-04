@@ -1,6 +1,9 @@
 name: Nick Padley - Digital Notes
 description: Information about Nick's Hobbies
 
+plugins: 
+  - jekyll-paginate
+
 permalink: /blog/:title/
 
 paginate: 5
