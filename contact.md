@@ -10,8 +10,6 @@ sitemap:
     lastmod: 2013-10-22T14:31:44-05:00
 ---
 
-<script src='https://www.google.com/recaptcha/api.js'></script>
-
 <form name="contact" method="POST" data-netlify="true" netlify-honeypot="main-contact-field">
       <fieldset>
       <input type="hidden" name="_next" value="//www.nickpadley.com/contact/thanks/" />
