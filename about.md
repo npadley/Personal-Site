@@ -10,7 +10,7 @@ sitemap:
     lastmod: 2013-10-22T14:31:44-05:00
 ---
 
-My name is Nick Padley and I work in as a Senior Program Manager at <a href="https://www.logile.com">Logile</a.>. I enjoy working on various forecasting and labor planning scenarios along with scheduling, time, and attendance. I have a passion for the voice of the customer and creating an engaging professional services environment.
+My name is Nick Padley and I work in as a Senior Program Manager at <a href="https://www.logile.com">Logile</a>. I enjoy working on various forecasting and labor planning scenarios along with scheduling, time, and attendance. I have a passion for the voice of the customer and creating an engaging professional services environment.
 
 ### How I Work
 
