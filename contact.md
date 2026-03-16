@@ -14,16 +14,13 @@ sitemap:
       <fieldset>
       <input type="hidden" name="_next" value="//www.nickpadley.com/contact/thanks/" />
       <input type="hidden" name="_subject" value="Contact Form Submission" />
-    <div class="form-group hidden">
-      <input name="main-contact-field" /></label>
-    </div>
     <div class="form-group">
 		<label for="name">Name</label>
 		<input type="text" class="form-control" name="name" placeholder="Your Name" id="name" />
 		</div>
 	<div class="form-group">	
 		<label for="email">Email</label>
-    	<input type="email" name="_replyto" class="form-control" placeholder="email@domain.com">
+    	<input type="email" name="email" class="form-control" placeholder="email@domain.com">
     </div>
     <div class="form-group">	
 		<label for="message">Message</label>
