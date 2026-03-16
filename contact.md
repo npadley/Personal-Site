@@ -1,4 +1,4 @@
----
+d---
 layout: default
 title: Contact Nick
 icon: fa fa-envelope-o
@@ -12,8 +12,6 @@ sitemap:
 
 <form name="contact" method="POST" action="https://formspree.io/f/xwkwyevy">
       <fieldset>
-      <input type="hidden" name="_next" value="//www.nickpadley.com/contact/thanks/" />
-      <input type="hidden" name="_subject" value="Contact Form Submission" />
     <div class="form-group">
 		<label for="name">Name</label>
 		<input type="text" class="form-control" name="name" placeholder="Your Name" id="name" />
