@@ -1,4 +1,4 @@
-d---
+---
 layout: default
 title: Contact Nick
 icon: fa fa-envelope-o
